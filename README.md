@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stefanerd-mcp-server-runescape-badge.png)](https://mseep.ai/app/stefanerd-mcp-server-runescape)
+
 # mcp-server-runescape
 [![npm version](https://badge.fury.io/js/mcp-server-runescape.svg)](https://badge.fury.io/js/mcp-server-runescape)
 [![smithery badge](https://smithery.ai/badge/@stefan-xyz/mcp-server-runescape)](https://smithery.ai/server/@stefan-xyz/mcp-server-runescape)
