@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-runescape",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/server.js",
   "author": "stefan-xyz",
   "keywords": [
@@ -38,5 +38,5 @@
     "dist",
     "LICENSE",
     "README.md"
-  ]  
+  ]
 }
